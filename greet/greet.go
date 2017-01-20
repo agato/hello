@@ -1,5 +1,5 @@
 package greet
 
-func Speak() {
-	println("hello")
+func Speak() string {
+	return "hello"
 }
